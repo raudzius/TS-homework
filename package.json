@@ -5,7 +5,7 @@
   "main": ".eslintrc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "cd ./lesson-1 && tsc -w & cd ./lesson-2/TS-2-exercises && tsc -w & cd ./lesson-2/TS-2-typed-arrays && tsc -w & cd ./lesson-2/TS-2-typed-functions && tsc -w & cd ./lesson-2/TS-2-typed-objects && tsc -w & cd ./lesson-3 && tsc -w & cd ./lesson-4 && tsc -w & cd ./lesson-5 && tsc -w & cd ./lesson-8 && tsc -w & cd ./lesson-9 && tsc -w"
+    "start": "cd ./lesson-1 && tsc -w & cd ./lesson-2/TS-2-exercises && tsc -w & cd ./lesson-2/TS-2-typed-arrays && tsc -w & cd ./lesson-2/TS-2-typed-functions && tsc -w & cd ./lesson-2/TS-2-typed-objects && tsc -w & cd ./lesson-3 && tsc -w & cd ./lesson-4 && tsc -w & cd ./lesson-5 && tsc -w & cd ./lesson-6 && tsc -w & cd ./lesson-7 && tsc -w & cd ./lesson-8 && tsc -w & cd ./lesson-9 && tsc -w && tsc -w & cd ./lesson-10 && tsc -w"
   },
   "keywords": [],
   "author": "",
